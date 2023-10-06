@@ -5,8 +5,6 @@
 <img align="right" alt="Data Science" width="400" src="https://user~
 images.githubusercontent.com/55389276/140866485-8f1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-tripathi27" alt="aman-tripathi27" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/amantri37784580" target="blank"><img src="https://img.shields.io/twitter/follow/amantri37784580?logo=twitter&style=for-the-badge" alt="amantri37784580" /></a> </p>
 
 - 📫 How to reach me **Amantripathi3273@gmail.com**
