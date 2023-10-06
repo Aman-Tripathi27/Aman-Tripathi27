@@ -1,4 +1,4 @@
-![logo](https://github.com/Aman-Tripathi27/Aman-Tripathi27/blob/main/Brown%20And%20White%20Aesthetic%20Channel%20Youtube%20Banner.png)
+![logo](https://github.com/Aman-Tripathi27/Aman-Tripathi27/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20Branding%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aman Tripathi</h1>
 <h3 align="center">A passionate Data-Scientist from India</h3>
 
