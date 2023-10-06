@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aman Tripathi</h1>
 <h3 align="center">A passionate Data-Scientist from India</h3>
 
-<img align="right" alt="Data Science" width="400" src="https://media3.giphy.com/media/SvckSy7fFviqrq8ClF/200w.webp?cid=ecf05e47lgs2y8c3f9h43np2rzpon4ycixu3sb3g6jixjeyx&ep=v1_gifs_search&rid=200w.webp&ct=g">
+<img align="right" alt="Data Science" width="300" src="https://media3.giphy.com/media/SvckSy7fFviqrq8ClF/200w.webp?cid=ecf05e47lgs2y8c3f9h43np2rzpon4ycixu3sb3g6jixjeyx&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
 <p align="left"> <a href="https://twitter.com/amantri37784580" target="blank"><img src="https://img.shields.io/twitter/follow/amantri37784580?logo=twitter&style=for-the-badge" alt="amantri37784580" /></a> </p>
 
