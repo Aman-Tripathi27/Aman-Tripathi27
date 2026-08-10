@@ -1,30 +1,94 @@
-![logo](https://github.com/Aman-Tripathi27/Aman-Tripathi27/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20Branding%20Youtube%20Banner.png)
-<h1 align="center">Hi 👋, I'm Aman Tripathi</h1>
-<h3 align="center">A passionate Data-Scientist from India</h3>
+<div align="center">
 
-<img align="right" alt="Data Science" width="300" src="https://media3.giphy.com/media/SvckSy7fFviqrq8ClF/200w.webp?cid=ecf05e47lgs2y8c3f9h43np2rzpon4ycixu3sb3g6jixjeyx&ep=v1_gifs_search&rid=200w.webp&ct=g">
+# Hi, I'm Aman Tripathi
 
-<p align="left"> <a href="https://twitter.com/amantri37784580" target="blank"><img src="https://img.shields.io/twitter/follow/amantri37784580?logo=twitter&style=for-the-badge" alt="amantri37784580" /></a> </p>
+**M.Sc. Data Science · Deep Learning · Biomedical ML**
 
-- 📫 How to reach me **Amantripathi3273@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aman-tripathi27.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-tripathi27/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amantripathi3273@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-64748b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://aman-tripathi27.github.io/Portfolio/images/Resume.pdf)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aman-tripathi27/](https://www.linkedin.com/in/aman-tripathi27/)
+🌍 Available to work from anywhere
 
-- ⚡ Fun fact **I think I am Funny**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## About Me
+
+I'm an **M.Sc. Data Science** candidate at **Manipal Academy of Higher Education**, focused on deep learning for biological and physiological data. I build GNN-based molecular interaction models, CNN-Transformer hybrids for temporal signal decomposition, and biomedical ML systems deployed in production.
+
+Previously **Deep Learning Engineer @ Temple (Eternal)**, where I worked on sleep onset/offset detection from wearable biosignals (EEG, accelerometer, PPG). **IEEE published researcher** — always open to roles and collaborations at the intersection of ML, signal processing, and healthcare.
+
+---
+
+## Experience
+
+### Deep Learning Engineer · Temple (Eternal)
+`Mar 2025 – Jul 2025` · Gurugram, India
+
+- Developed deep learning models for sleep onset/offset detection using multi-channel physiological time-series
+- Designed and trained **CNN-LSTM** hybrids for local patterns and long-range temporal dependencies
+- Built preprocessing pipelines with artifact rejection, bandpass filtering, and **VMD-based** signal decomposition
+- Benchmarked threshold baselines, XGBoost, LSTM, and Transformer architectures for production wearables
+
+---
+
+## Featured Projects
+
+| Project | Description | Link |
+| --- | --- | --- |
+| **GNN-DDI Predictor** | Graph autoencoder for drug–drug interaction prediction via link prediction on molecular graphs | [Live Demo](https://gnndrugdiscovery.streamlit.app) |
+| **Medicine Recommendation** | TF-IDF + cosine similarity system over clinical review data, deployed on Streamlit | [Live Demo](https://personalised-medicine-recommendation-system.streamlit.app) |
+| **VMD-CNN-Transformer** | Variational Mode Decomposition + hybrid deep learning for non-stationary time-series forecasting | Research |
+
+---
+
+## Research & Achievements
+
+- **IEEE CIEES 2025** — Published paper on benchmarking ML/NLP techniques for public health discourse analysis  
+  [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11300080)
+- **Novo Nordisk GBS Hackathon 2025** — Team Lead; delivered a working ML prototype under tight deadlines
+
+---
+
+## Tech Stack
+
 <p align="left">
-<a href="https://twitter.com/amantri37784580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amantri37784580" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman tripathi" height="30" width="40" /></a>
-<a href="https://kaggle.com/aman tripathi15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aman tripathi15" height="30" width="40" /></a>
-<a href="https://instagram.com/arryann02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arryann02" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Core:** Python · SQL · PyTorch · PyTorch Geometric · CNN · LSTM · Transformer · GNN  
+**Domains:** Biosignal processing · VMD · RDKit · DrugBank · NLP · Statistical modeling  
+**Tools:** Streamlit · Hugging Face · XGBoost · SHAP · scikit-learn
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-tripathi27&show_icons=true&locale=en&layout=compact" alt="aman-tripathi27" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-tripathi27&show_icons=true&locale=en" alt="aman-tripathi27" /></p>
+## GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-tripathi27&" alt="aman-tripathi27" /></p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman-Tripathi27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Tripathi27&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Tripathi27&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+<div align="center">
+
+**Let's connect** — [Portfolio](https://aman-tripathi27.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/aman-tripathi27/) · [amantripathi3273@gmail.com](mailto:amantripathi3273@gmail.com)
+
+</div>
