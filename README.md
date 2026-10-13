@@ -17,21 +17,21 @@
 
 ## About Me
 
-I'm an **M.Sc. Data Science** candidate at **Manipal Academy of Higher Education**, focused on deep learning for biological and physiological data. I build GNN-based molecular interaction models, CNN-Transformer hybrids for temporal signal decomposition, and biomedical ML systems deployed in production.
+M.Sc. Data Science graduate (**Manipal Academy of Higher Education**, 2024–2026) focused on deep learning for biological and physiological data. I've worked on wearable PPG and accelerometer signals for sleep detection, built **GlucoTrace**, an open-source Transformer encoder that turns CGM data into compact fingerprints for researchers, and built GNN-based molecular interaction models.
 
-Previously **Deep Learning Engineer @ Temple (Eternal)**, where I worked on sleep onset/offset detection from wearable biosignals (EEG, accelerometer, PPG). **IEEE published researcher** — always open to roles and collaborations at the intersection of ML, signal processing, and healthcare.
+Previously a **Deep Learning Engineer Intern @ Temple (Eternal)**, working on sleep detection from wearable PPG and accelerometer signals. **IEEE published researcher**. Open to roles at the intersection of ML, signal processing, and physiological sensing.
 
 ---
 
 ## Experience
 
-### Deep Learning Engineer · Temple (Eternal)
-`Mar 2025 – Jul 2025` · Gurugram, India
+### Deep Learning Engineer Intern · Temple (Eternal)
+`Mar 2026 – Jul 2026` · Gurugram, India
 
-- Developed deep learning models for sleep onset/offset detection using multi-channel physiological time-series
-- Designed and trained **CNN-LSTM** hybrids for local patterns and long-range temporal dependencies
-- Built preprocessing pipelines with artifact rejection, bandpass filtering, and **VMD-based** signal decomposition
-- Benchmarked threshold baselines, XGBoost, LSTM, and Transformer architectures for production wearables
+- Improved the robustness of the existing heuristic-based sleep onset/offset detection system in the production app, working with wearable **PPG** and **accelerometer** signals
+- Built a **brief-movement detection** algorithm on accelerometer data to capture short in-sleep movements, and worked with the product team to ship it to the production app
+- Worked with the team on an ML approach to sleep onset/offset detection: trained **CNN-LSTM** hybrids and benchmarked them against threshold baselines, XGBoost, LSTM, and Transformer models using epoch-level accuracy, F1, and temporal boundary error
+- Built preprocessing pipelines for raw PPG and accelerometer recordings: artifact rejection, bandpass filtering, and epoch-level feature extraction
 
 ---
 
@@ -39,9 +39,12 @@ Previously **Deep Learning Engineer @ Temple (Eternal)**, where I worked on slee
 
 | Project | Description | Link |
 | --- | --- | --- |
+| **GlucoTrace** | Pip-installable research tool that turns a day of CGM data into a 128-number fingerprint; compact self-supervised Transformer encoder (511k params) with participant-disjoint, pre-registered evaluation | [Repo](https://github.com/Aman-Tripathi27/GlucoTrace) |
+| **Wrist PPG Motion-Artifact Cleaning** | IMU-referenced adaptive noise cancellation with zero-phase filtering on the WRIST dataset | [Repo](https://github.com/Aman-Tripathi27/ppg-motion-artifact-cleaning) |
 | **GNN-DDI Predictor** | Graph autoencoder for drug–drug interaction prediction via link prediction on molecular graphs | [Live Demo](https://gnndrugdiscovery.streamlit.app) |
-| **Medicine Recommendation** | TF-IDF + cosine similarity system over clinical review data, deployed on Streamlit | [Live Demo](https://personalised-medicine-recommendation-system.streamlit.app) |
-| **VMD-CNN-Transformer** | Variational Mode Decomposition + hybrid deep learning for non-stationary time-series forecasting | Research |
+| **VMD-CNN-Transformer** | Variational Mode Decomposition + hybrid deep learning for non-stationary time-series forecasting | [Repo](https://github.com/Aman-Tripathi27/VMD_CNN) |
+
+**Open source:** pull requests to [NeuroKit2](https://github.com/neuropsychology/NeuroKit)'s HRV module (tuple-input fix, RQA regression tests, RQA docs).
 
 ---
 
