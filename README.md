@@ -40,6 +40,7 @@ Previously a **Deep Learning Engineer Intern @ Temple (Eternal)**, working on sl
 | Project | Description | Link |
 | --- | --- | --- |
 | **GlucoTrace** | Pip-installable research tool that turns a day of CGM data into a 128-number fingerprint; compact self-supervised Transformer encoder (511k params) with participant-disjoint, pre-registered evaluation | [Repo](https://github.com/Aman-Tripathi27/GlucoTrace) |
+| **Mobile EEG Signal Quality** | Rules-only per-sensor quality score for EEG recorded while walking and jogging, using scalp sensors plus a head motion sensor; footstep-artifact removal with gait-template subtraction | [Repo](https://github.com/Aman-Tripathi27/mobile-eeg-signal-quality) |
 | **Wrist PPG Motion-Artifact Cleaning** | IMU-referenced adaptive noise cancellation with zero-phase filtering on the WRIST dataset | [Repo](https://github.com/Aman-Tripathi27/ppg-motion-artifact-cleaning) |
 | **GNN-DDI Predictor** | Graph autoencoder for drug–drug interaction prediction via link prediction on molecular graphs | [Live Demo](https://gnndrugdiscovery.streamlit.app) |
 | **VMD-CNN-Transformer** | Variational Mode Decomposition + hybrid deep learning for non-stationary time-series forecasting | [Repo](https://github.com/Aman-Tripathi27/VMD_CNN) |
